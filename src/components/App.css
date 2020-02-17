@@ -1,0 +1,18 @@
+.App{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.List{
+    max-width: 40vw;
+    background-color: green;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     li{
+         list-style: none;
+         color: green;
+         text-shadow: 1px, 0px, 1px;
+        }      
+}
